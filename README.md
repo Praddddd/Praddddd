@@ -2,6 +2,8 @@
 <h3 align="center">🎓 Informatics Student at INSTIKI</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://instagram.com/pr4ddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr4ddd" height="30" width="40" /></a>
+
 <p align="left">
 </p>
 
